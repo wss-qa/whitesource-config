@@ -9,5 +9,10 @@
   "issueSettings": {
     "minSeverityLevel": "LOW",
     "issueType": "DEPENDENCY"
-  }
+  },
+  "remediateSettings": {
+        "workflowRules": {
+            "enabled": true
+        }
+  }
 }
